@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+.env
+*.env
+
+# Data & models (large files)
+notebooks/data/raw/
+notebooks/data/processed/
+notebooks/data/windows/
+models/**/model.pt
+models/**/metrics.json
+models/**/*.zip
+
+# System junk
+.DS_Store
+Thumbs.db

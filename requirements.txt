@@ -1,0 +1,17 @@
+# core
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+matplotlib==3.8.4
+
+# astro + light curves
+astropy==6.0.1
+lightkurve==2.4.2
+
+# UI (optional)
+streamlit==1.35.0
+plotly==5.22.0
+
+# ML (for later, local inference; Kaggle has torch preinstalled)
+torch==2.3.1
+torchvision==0.18.1
