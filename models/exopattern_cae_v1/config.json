@@ -1,0 +1,6 @@
+{
+  "window_len": 2048,
+  "window_stride": 256,
+  "norm": "median=1.0 after flatten",
+  "mission": "Kepler"
+}
